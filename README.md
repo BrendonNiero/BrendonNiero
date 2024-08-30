@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrendonNiero
+- 👀 I’m interested in C# Rust and Node
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on NodeJs and C#
