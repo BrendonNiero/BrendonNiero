@@ -2,7 +2,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/1170124558959910912" > -->
-  <a href="https://egirl.ing/" >
+  <a href="https://github.com/BrendonNiero" >
    <img src="https://lanyard.cnrad.dev/api/1170124558959910912?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
