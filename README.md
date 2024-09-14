@@ -56,7 +56,7 @@
 <li>
  <b>Name:</b> Brendon</li>
 <li>
-<b>Person:</b> Driven
+<b>Person:</b> Talk
 </li>
 <li>
 <b>Loves:</b> Code, Math, Coffee
