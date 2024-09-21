@@ -73,7 +73,7 @@
 <b>Hobbys:</b> Tech Stuff, Calisthenics, Web Development
 </li>
 <li>
-<b>Working @:</b> MyStuffs
+<b>Working:</b> JSM Engenharia
 </li>
 <br><br><br>
 </div>
