@@ -6,7 +6,7 @@
    <img src="https://lanyard.cnrad.dev/api/1070647662027751455?theme=light&bg=f3f3f3&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20working%20on%20a%20project%20☄️"  />
   </a>
     <br>
-  <p>𝕿𝖍𝖊𝖗𝖊𝖘 𝖓𝖔 𝖗𝖚𝖑𝖊𝖘 𝖎𝖓 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉 🌊</p>
+  <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
 
 ###
