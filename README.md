@@ -52,7 +52,7 @@
 <div>
 <h2 align="center"> 🐸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐸 </h2>
   <div align="center">
-<img src="https://media.tenor.com/pSOi8z7BCqQAAAAi/marija-marija-muse-dash.gif" align="right">
+<img src="https://i.pinimg.com/originals/6f/d1/5d/6fd15d8edc4d18e27c504612134a866d.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Brendon</li>
