@@ -55,7 +55,7 @@
 <img src="https://i.pinimg.com/originals/2e/40/e6/2e40e6f588cd421e03fedb61135881ed.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Brendon</li>
+ <b>Name:</b> Brendon Berzins</li>
 <li>
 <b>Person:</b> Talk
 </li>
