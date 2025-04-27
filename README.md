@@ -69,6 +69,9 @@
 <b>My Services:</b> https://brendon-berzins.vercel.app
 </li>
 <li>
+<b>Founder BlazorCharts:</b> https://brendonniero.github.io/blazor-charts/
+</li>
+<li>
 <b>Hobbys:</b> Tech Stuff, Calisthenics, Web Development
 </li>
 <li>
