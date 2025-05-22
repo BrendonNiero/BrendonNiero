@@ -1,9 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 <br>
 <div align="center">
-  <a href="https://discord.com/users/1070647662027751455" >
-   <img src="https://lanyard.cnrad.dev/api/1070647662027751455?theme=light&bg=f3f3f3&showDisplayName=true&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20working%20on%20a%20project%20☄️"  />
-  </a>
+  <img src="https://preview.redd.it/anime-gif-collection-v0-t64rltdqx90e1.gif?width=540&auto=webp&s=9fe6e337c86b1b81d54bad32e473b10d29bd54ff" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
