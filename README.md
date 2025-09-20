@@ -68,7 +68,7 @@
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>My Services:</b> https://brendon-berzins.vercel.app
+<b>My Services:</b> https://construa-sites.com.br
 </li>
 <li>
 <b>Founder BlazorCharts:</b> https://brendonniero.github.io/blazor-charts/
