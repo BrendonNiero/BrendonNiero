@@ -59,7 +59,7 @@
 <li>
  <b>Name:</b> Brendon Berzins</li>
 <li>
-<b>Person:</b> Talk
+<b>Person:</b> Top Voicer
 </li>
 <li>
 <b>Loves:</b> Code, Math, Coffee
