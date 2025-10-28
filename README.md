@@ -1,7 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 <br>
 <div align="center">
-  <img src="https://preview.redd.it/anime-gif-collection-v0-t64rltdqx90e1.gif?width=540&auto=webp&s=9fe6e337c86b1b81d54bad32e473b10d29bd54ff" />
+  <img src="https://i.pinimg.com/originals/f2/76/75/f2767594af8e72dca8c996038a546949.gif" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
@@ -75,9 +75,6 @@
 </li>
 <li>
 <b>Gender:</b> he/him/Male
-</li>
-<li>
-<b>My Services:</b> https://construa-sites.com.br
 </li>
 <li>
 <b>Founder BlazorCharts:</b> https://brendonniero.github.io/blazor-charts/
