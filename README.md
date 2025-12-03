@@ -1,7 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 <br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/08/b4/f3/08b4f35b31e0ea0948ca7b5778e32b54.gif" />
+  <img src="https://preview.redd.it/gifs-from-new-pv-v0-3v0zhuvfckoc1.gif?width=640&auto=webp&s=b64919d8149d1909600a89720955f651ee67fb10" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
