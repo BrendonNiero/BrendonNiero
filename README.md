@@ -1,7 +1,8 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 <br>
 <div align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/re-zero-rem-flower-lovely-gif-preview-desktop-wallpaper.gif" />
+  <!--<img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/re-zero-rem-flower-lovely-gif-preview-desktop-wallpaper.gif" /> -->
+  <img src="https://windowscustomization.com/wp-content/uploads/2019/01/Purple-Landscape.gif" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
