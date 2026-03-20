@@ -69,10 +69,10 @@
 <li>
  <b>Name:</b> Brendon Berzins</li>
 <li>
-<b>Person:</b> Top Voicer
+<b>Person:</b> Agile
 </li>
 <li>
-<b>Loves:</b> Code, Math, Coffee
+<b>Loves:</b> Code, AI, Coffee
 </li>
 <li>
 <b>Gender:</b> he/him/Male
