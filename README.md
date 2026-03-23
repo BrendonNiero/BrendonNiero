@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <!--<img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/re-zero-rem-flower-lovely-gif-preview-desktop-wallpaper.gif" /> -->
-  <img src="https://i.pinimg.com/originals/9c/44/a6/9c44a6cb38a5987eab3ea99e6db24744.gif" />
+  <img src="https://i.pinimg.com/originals/62/7f/fa/627ffa8faacfee2c52110c63541eb926.gif" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
