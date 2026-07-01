@@ -1,8 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 <br>
 <div align="center">
-  <!--<img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/re-zero-rem-flower-lovely-gif-preview-desktop-wallpaper.gif" /> -->
-  <img src="https://i.pinimg.com/originals/f5/a8/e9/f5a8e912d16544ea9137ab8b4cf6d771.gif" />
+  <img src="https://usagif.com/wp-content/uploads/gify/40-gojo-sobers-up-from-curses-stupefying-spell.gif" />
     <br>
   <p>🌊 🅵🆄🅻🅻🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🌊</p>
 </div>
