@@ -141,7 +141,7 @@ Cloud platform for monitoring intelligent traffic controllers across multiple ci
 
 <div align="center" display="flex">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brendon-berzins-45815b268/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:brendonsoftwaredeveloper@gmail.com)
 
 </div>
