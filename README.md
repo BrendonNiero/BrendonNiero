@@ -114,7 +114,7 @@ Building scalable applications with **.NET**, **Cloud**, **IoT**, and modern web
 - ☁ Passionate about **Cloud Computing**
 - 🏗 Focused on **Backend Development**
 - 📚 Always learning new technologies
-- 🤖 AI enthusiast
+- 🤖 AI agile
 - ☕ Coffee lover
 - 💪 Calisthenics athlete
 
