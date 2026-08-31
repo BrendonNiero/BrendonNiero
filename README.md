@@ -1,7 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 
 <div align="center">
-<img src="https://usagif.com/wp-content/uploads/gify/40-gojo-sobers-up-from-curses-stupefying-spell.gif"/>
+<img src="https://giffiles.alphacoders.com/223/223488.gif"/>
 
 <br>
 
