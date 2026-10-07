@@ -1,7 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 
 <div align="center">
-<img src="https://giffiles.alphacoders.com/223/223488.gif"/>
+<img src="https://i.pinimg.com/originals/a3/d8/32/a3d8323add47a1e73ebd266b9e24e01c.gif"/>
 
 <br>
 
