@@ -105,7 +105,7 @@ Building scalable applications with **.NET**, **Cloud**, **IoT**, and modern web
 
 # 🐸 About Me
 
-<img src="https://static.zerochan.net/Pack.%28Re%3AZero%29.full.2955666.gif" height="300" align="right"/>
+<img src="https://static.zerochan.net/Pack.%28Re%3AZero%29.full.2955666.gif" height="380" align="right"/>
 
 - 👨‍💻 **Software Engineer**
 - 💼 Currently working at **JSM Engenharia**
