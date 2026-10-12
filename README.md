@@ -1,7 +1,7 @@
 <h1 align="center">~ 🍂 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🍃 ~</h1>
 
 <div align="center">
-<img src="https://giffiles.alphacoders.com/218/218645.gif"/>
+<img src="https://wallpapers-clan.com/wp-content/uploads/2025/11/attack-on-titan-eren-yeager-facing-his-titan-destiny-gif-desktop-wallpaper-preview.gif"/>
 
 <br>
 
